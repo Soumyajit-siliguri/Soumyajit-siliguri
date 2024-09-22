@@ -46,9 +46,8 @@ I enjoy working on creative projects, such as my recent alpaca image generator, 
 
 ## My Developer Stats
 
-[GeekForGeeks](https://www.geeksforgeeks.org) ![GFG Stats](https://img.shields.io/badge/Stats-GFG-blue)  
-[The Odin Project](https://www.theodinproject.com) ![TOP Stats](https://img.shields.io/badge/Stats-TOP-green)  
-[DevProject](https://www.devproject.com) ![DevProject Stats](https://img.shields.io/badge/Stats-DevProject-orange)  
+![LeetCode](https://leetcard.jacobgb.com/soumyajitsinha088?theme=dark&font=Lexend Deca)
+ 
 
 
 ### 🤝 Collaboration
