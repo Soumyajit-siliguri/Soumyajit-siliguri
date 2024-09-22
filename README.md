@@ -45,7 +45,8 @@ I enjoy working on creative projects, such as my recent alpaca image generator, 
 - **Problem Solving**: Enjoy tackling coding challenges and algorithm problems.
 
 ## My Developer Stats
-![LeetCode](https://leetcard.jacobgb.com/soumyajitsinha088?theme=dark&font=Lexend%20Deca)
+![LeetCode](https://leetcode-stats-api.herokuapp.com?username=soumyajitsinha088)
+
 
  
 
