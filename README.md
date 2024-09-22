@@ -53,6 +53,11 @@ I’m always eager to learn and collaborate with fellow developers. Feel free to
 - **Email**: [soumyajitsinha.campk12@gmail.com](mailto:soumyajitsinha.campk12@gmail.com)
 - **GitHub**: [Soumyajit](https://github.com/Soumyajit-siliguri)
 
+- ## My YouTube Channel
+
+[![My Channel](https://img.youtube.com/vi/ZfYhx5q6Y2c/0.jpg)](https://www.youtube.com/@soumyajitsinha4466)
+
+
 ### 🎉 Fun Fact
 Did you know that octopuses have three hearts and blue blood? They are fascinating creatures with incredible intelligence!
 
