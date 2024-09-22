@@ -15,5 +15,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/soumyajitsinha"><img src="https://api.daily.dev/devcards/v2/5bwFOW12A5yJFw07gJIVV.png?type=default&r=ftg" width="356" alt="Soumyajit Sinha's Dev Card"/></a>
+# About Me
+
+## 👋 Hi there!
+
+I’m a passionate new developer exploring the world of technology and web development. My journey into coding began with a desire to create fun and interactive projects that bring joy to others.
+
+### 🌱 Currently Learning
+- **React**: Diving deep into building dynamic user interfaces.
+- **Java**: Strengthening my skills in object-oriented programming.
+- **SQL**: Learning to manage and query databases effectively.
+- **DSA**: Gaining experience in Data Structure and Algorythm.
+- **Microservices**: Learning about RESTful APIs and SPRING.
+
+
+### 🎨 Interests
+I love anime and art, which inspire my creative approach to projects. I believe that combining technology with creativity leads to beautiful outcomes.
+
+### 🚀 Projects
+I enjoy working on creative projects, such as my recent alpaca image generator, where users can customize and download adorable alpaca avatars. It’s a fun way to blend coding with creativity!
+
+### 💼 Skills
+- **Front-End Development**: Proficient in HTML, CSS, and JavaScript.
+- **Back-End Development**: Knowledge of Java and Servlets for web applications.
+- **Python**: made several mini projects with Python.
+- **Database Management**: Familiar with SQL for data handling.
+- **Scripting and Automation**: Experience with Python for various tasks.
+- **Version Control**: Experienced with Git and GitHub for collaboration.
+- **Problem Solving**: Enjoy tackling coding challenges and algorithm problems.
+
+### 🤝 Collaboration
+I’m dedicated and open to collaborating with others to work on beautiful projects that enhance my learning journey. If you’re interested in teaming up, feel free to reach out!
+
+### 🌍 Connect with Me
+I’m always eager to learn and collaborate with fellow developers. Feel free to reach out if you want to chat or work together on a project!
+
+- **Email**: [soumyajitsinha.campk12@gmail.com](mailto:soumyajitsinha.campk12@gmail.com)
+- **GitHub**: [Soumyajit](https://github.com/Soumyajit-siliguri)
+
+### 🎉 Fun Fact
+Did you know that octopuses have three hearts and blue blood? They are fascinating creatures with incredible intelligence!
+
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6532a292b5d7a4eb01eb4b40?variant=dark" alt="roadmap.sh"/></a>
+
