@@ -44,14 +44,13 @@ I enjoy working on creative projects, such as my recent alpaca image generator, 
 - **Version Control**: Experienced with Git and GitHub for collaboration.
 - **Problem Solving**: Enjoy tackling coding challenges and algorithm problems.
 
-## My Developer Stats
+## My Developer Profiles
 
-### LeetCode Profile
-Check out my LeetCode profile for coding challenges and progress:
-[LeetCode Profile](https://leetcode.com/soumyajitsinha088)
-
-[![LeetCode Logo](https://upload.wikimedia.org/wikipedia/en/8/8e/LeetCode_logo_black.png)](https://leetcode.com/soumyajitsinha088)
- 
+- **[LeetCode ](https://leetcode.com/soumyajitsinha088)**
+- **[Codewars ](https://www.codewars.com/users/ssinha_slg143)**
+- **[HackerRank ](https://www.hackerrank.com/profile/soumyajitsinha01)**
+- **[CodeChef ](https://www.codechef.com/users/grace_card_09)**
+- **[freeCodeCamp ](https://www.freecodecamp.org/soumyajitsinha)**
 
 
 ### 🤝 Collaboration
