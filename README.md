@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/soumyajitsinha"><img src="https://api.daily.dev/devcards/v2/5bwFOW12A5yJFw07gJIVV.png?type=default&r=ftg" width="356" alt="Soumyajit Sinha's Dev Card"/></a>
+<a href="https://app.daily.dev/soumyajitsinha"><img src="https://api.daily.dev/devcards/v2/5bwFOW12A5yJFw07gJIVV.png?type=default&r=ftg" width="250" alt="Soumyajit Sinha's Dev Card"/></a>
 # About Me
 
 ## 👋 Hi there!
