@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/soumyajitsinha"><img src="https://api.daily.dev/devcards/v2/5bwFOW12A5yJFw07gJIVV.png?type=default&r=ftg" width="250" alt="Soumyajit Sinha's Dev Card"/></a>
 # About Me
 
-## 👋 Hi there!
-
 I’m a passionate new developer exploring the world of technology and web development. My journey into coding began with a desire to create fun and interactive projects that bring joy to others.
 
 ### 🌱 Currently Learning
