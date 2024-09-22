@@ -44,6 +44,13 @@ I enjoy working on creative projects, such as my recent alpaca image generator, 
 - **Version Control**: Experienced with Git and GitHub for collaboration.
 - **Problem Solving**: Enjoy tackling coding challenges and algorithm problems.
 
+## My Developer Stats
+
+[GeekForGeeks](https://www.geeksforgeeks.org) ![GFG Stats](https://img.shields.io/badge/Stats-GFG-blue)  
+[The Odin Project](https://www.theodinproject.com) ![TOP Stats](https://img.shields.io/badge/Stats-TOP-green)  
+[DevProject](https://www.devproject.com) ![DevProject Stats](https://img.shields.io/badge/Stats-DevProject-orange)  
+
+
 ### 🤝 Collaboration
 I’m dedicated and open to collaborating with others to work on beautiful projects that enhance my learning journey. If you’re interested in teaming up, feel free to reach out!
 
