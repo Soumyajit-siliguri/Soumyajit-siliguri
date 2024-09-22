@@ -55,7 +55,9 @@ I’m always eager to learn and collaborate with fellow developers. Feel free to
 
 ## My YouTube Channel
 
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/channel/UC-FUdTWnuYJ9rxLVDSsuaNA)
+<a href="https://www.youtube.com/channel/UC-FUdTWnuYJ9rxLVDSsuaNA">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="24" height="24">
+</a>
 
 
 
