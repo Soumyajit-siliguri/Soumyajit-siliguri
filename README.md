@@ -55,7 +55,7 @@ I’m always eager to learn and collaborate with fellow developers. Feel free to
 
 ## My YouTube Channel
 
-[![My Channel]](https://www.youtube.com/channel/UC-FUdTWnuYJ9rxLVDSsuaNA)
+[!Soumyajitl](https://www.youtube.com/channel/UC-FUdTWnuYJ9rxLVDSsuaNA)
 
 
 
