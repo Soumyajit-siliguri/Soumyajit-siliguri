@@ -66,10 +66,12 @@ I’m always eager to learn and collaborate with fellow developers. Feel free to
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="24" height="24">
     <p>Youtube - Soumyjit Sinha</p> 
 </a>
-<a href="https://www.youtube.com/channel/UCeoj9JNSQaUOZld0pCWc9uw">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="24" height="24">
-    <p>Youtube - Crafted Curiosity</p> 
-</a>
+
+
+![Crafted Curiosity Logo](https://github.com/Soumyajit-siliguri/Soumyajit-siliguri/blob/main/images/logo/Crafted_Curiosity.png)
+
+Follow me on [YouTube](https://www.youtube.com/channel/UC-FUdTWnuYJ9rxLVDSsuaNA) for content on cooking, coding, science, and more!
+
 
 
 
