@@ -68,7 +68,7 @@ I’m always eager to learn and collaborate with fellow developers. Feel free to
    
 </a>
 
-Follow me on [Youtube : Crafted Curiosity](https://www.youtube.com/channel/UC-FUdTWnuYJ9rxLVDSsuaNA) for content on cooking, coding, science, and more!
+Follow me on [Youtube : Crafted Curiosity](https://www.youtube.com/channel/UC-FUdTWnuYJ9rxLVDSsuaNA) for content on cooking, coding, science, gym, and more!
 
 
 
