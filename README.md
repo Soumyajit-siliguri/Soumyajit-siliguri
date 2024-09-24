@@ -49,6 +49,7 @@ I enjoy working on creative projects, such as my recent alpaca image generator, 
 - **[HackerRank ](https://www.hackerrank.com/profile/soumyajitsinha01)**
 - **[CodeChef ](https://www.codechef.com/users/grace_card_09)**
 - **[freeCodeCamp ](https://www.freecodecamp.org/soumyajitsinha)**
+- **[Dev Community ](https://dev.to/soumyajitsiliguri)**
 
 
 ### 🤝 Collaboration
