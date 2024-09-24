@@ -79,5 +79,5 @@ Follow me on [Youtube : Crafted Curiosity](https://www.youtube.com/@CraftedCurio
 Did you know that octopuses have three hearts and blue blood? They are fascinating creatures with incredible intelligence!
 
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6532a292b5d7a4eb01eb4b40?variant=dark" alt="roadmap.sh"/></a>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6532a292b5d7a4eb01eb4b40?variant=dark)](https://roadmap.sh)
