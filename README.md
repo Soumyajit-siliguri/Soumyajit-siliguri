@@ -32,6 +32,9 @@ I love anime and art, which inspire my creative approach to projects. I believe 
 
 ### 🚀 Projects
 I enjoy working on creative projects, such as my recent alpaca image generator, where users can customize and download adorable alpaca avatars. It’s a fun way to blend coding with creativity!
+**Deployed Projects**
+- **[Code Solution for FreeCodeCamp ](https://soumyajit-siliguri.github.io/freecodecamp-projects/)**
+- **[Alpaca Avator generator ](https://alpacaavataor.netlify.app/)**
 
 ### 💼 Skills
 - **Front-End Development**: Proficient in HTML, CSS, and JavaScript.
