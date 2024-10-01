@@ -54,6 +54,7 @@ I enjoy working on creative projects, such as my recent alpaca image generator, 
 - **[freeCodeCamp ](https://www.freecodecamp.org/soumyajitsinha)**
 - **[Code360 ](https://www.naukri.com/code360/profile/soumyajitsinha)**
 - **[Dev Community ](https://dev.to/soumyajitsiliguri)**
+- **[Exercism ](https://exercism.org/profiles/Soumyajit-siliguri)**
 
 
 ### 🤝 Collaboration
