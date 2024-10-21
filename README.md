@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I’m a passionate new developer exploring the world of technology and web development. My journey into coding began with a desire to create fun and interactive projects that bring joy to others.
 
+## **Check out more about me on my PortFolio**: [Soumyajit](https://soumyajitsinhaportfolio.netlify.app/htmlfiles/)
+
 ### 🌱 Currently Learning
 - **React**: Diving deep into building dynamic user interfaces.
 - **Java**: Strengthening my skills in object-oriented programming.
