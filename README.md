@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I’m a passionate new developer exploring the world of technology and web development. My journey into coding began with a desire to create fun and interactive projects that bring joy to others.
 
-## **Check out more about me on my PortFolio**: [Soumyajit](https://soumyajitsinhaportfolio.netlify.app/htmlfiles/)
+## **Check out more about me on my PortFolio**: [Soumyajit](http://crafted-curiosity-portfolio-01.s3-website.ap-south-1.amazonaws.com/certificates)
 
 ### 🌱 Currently Learning
 - **React**: Diving deep into building dynamic user interfaces.
